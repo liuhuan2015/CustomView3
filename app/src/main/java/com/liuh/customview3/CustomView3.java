@@ -29,7 +29,7 @@ import android.view.View;
  * startAngle: 圆弧起始角度，单位为度。
  * sweepAngle: 圆弧扫过的角度，顺时针方向，单位为度,从右中间开始为零度。
  * useCenter: 如果为True时，在绘制圆弧时将圆心包括在内，通常用来绘制扇形。
- * paint: 绘制圆弧的画板属性，如颜色，是否填充等。
+ * paint: 绘制圆弧的画笔属性，如颜色，是否填充等。
  */
 
 public class CustomView3 extends View {
